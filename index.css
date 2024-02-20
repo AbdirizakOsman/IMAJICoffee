@@ -1,0 +1,168 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    
+  }
+
+  span{
+    color: #573232;
+    margin: 5px;
+  }
+
+  .header ul {
+    display: flex;
+    gap: 40px;
+    font-size: 28px;
+    list-style: none;
+  }
+  
+  .header h1 {
+    font-size: 50px;
+    margin-top: -15px;
+    color: black;
+  }
+
+  .loginBtn {
+    background-color: #573232;
+    font-size: 22px;
+    padding: 12px 40px;
+    color: white;
+    border-radius: 12px;
+    border: none;
+    margin: 0 30px;
+   
+  }
+
+  
+
+  .singinBtn {
+    background-color: transparent;
+    font-size: 22px;
+    padding: 12px 40px;
+    color: #204e51;
+    border-radius: 12px;
+    border: 2px #204e51 solid;
+  }
+
+  .hero{
+    margin: 100px;
+    margin-left: 500px;
+  }
+/* .our{
+    text-align: center;
+} */
+  .our h1{
+    font-size: 90px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+    
+  
+
+  }
+  .our p{
+    margin-bottom: 40px;
+    font-size: 30px;
+  }
+
+  .our img{
+    width: 150vh;
+    height: 405px;
+    margin-left: -300px;
+   
+  }
+  .hero h2{
+    margin-left: -0px;
+    margin-top: 20px;
+  }
+
+  .image-list{
+    margin-left: 270px;
+   
+    
+    
+  }
+
+  .img-new{
+    display: flex;
+    padding: 30px;
+  }
+  
+  .img-new h1{
+    margin-left: 30px;
+    padding-top: 50px;
+  }
+
+  .btn button{
+    margin-left: 800px;
+    width: 200px;
+    height: 50px;
+    color: red;
+    margin-top: -40px;
+  }
+
+  .footer{
+    background-color: black;
+    color: white;
+   text-align: center;
+   
+  }
+
+  .footer h3{
+   padding-top: 20px;
+  }
+
+  .footer p{
+    padding-top: 20px;
+  }
+  right{
+    color: wheat;
+   
+   
+  }
+ /* . .right i{
+    display: flex;
+    justify-content: space-between;
+   
+  } */
+
+  .links{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    margin-top: 30px;
+  }
+  .left{
+    margin-left: 200px;
+    
+  }
+
+  .right{
+    margin-right: 200px;
+  }
+
+ .img-new{
+    border-top: 1px solid gray;
+ }
+
+
+  
+  .main{
+    background-color: #FCF7EF;
+  }
+
+  button{
+    margin-top: -20px;
+    background-color: transparent;
+    
+  }
+  button{
+    margin-bottom: 50px;
+  }
